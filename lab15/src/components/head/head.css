@@ -1,0 +1,9 @@
+.head {
+    height: 40px;
+    background-color: olive;
+    grid-area: head;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    grid-template-columns: repeat(3,1fr);
+}

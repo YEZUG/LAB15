@@ -1,0 +1,5 @@
+.footer{
+    background-color: cadetblue;
+    grid-area: footer;
+    height: 5vh;
+}
